@@ -1,2 +1,2 @@
 # AQI_India
-Plotting AQI of India of Map using pandas and folium
+Plotting AQI of India on Map using pandas and folium
